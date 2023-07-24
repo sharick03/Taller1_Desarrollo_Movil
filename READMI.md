@@ -1,6 +1,6 @@
 # Taller-java-formulario-conexiones
 Para la nueva entrega se tuvieron que realizar diferentes conexiones a base de datos por lo que las mostraré una por una.
-*
+***
 ![image](https://github.com/juliansnn/Taller-java-formulario-conexiones/assets/128439443/f19adc95-88ee-404a-814e-51bffd5453c1)
 *
 1. La primera, la BasicConnection, una conexión sencilla a nuestra base de datos.
